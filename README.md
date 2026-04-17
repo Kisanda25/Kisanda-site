@@ -1,4 +1,4 @@
-🏥 Hope Health Care Surgery Website
+Kisanda Holdings Website
 
 A modern, responsive clinic website built with React, TypeScript, and Tailwind CSS.
 
@@ -51,16 +51,15 @@ Netlify
 AWS (S3 + CloudFront)
 📞 Contact Information
 
-Hope Health Care Surgery
-📍 01 Consani Road, Elsies River, Cape Town
-📞 +27 60 263 9446
+Kisanda Holdings
+📍 Cape Town, South Africa
+📞 +27 74 568 9366
 
 🔮 Future Improvements
 
 Online appointment booking system
 Backend API integration
 Google Maps integration
-Testimonials section
 Admin dashboard (SaaS version)
 📄 License
 
